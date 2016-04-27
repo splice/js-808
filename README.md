@@ -66,7 +66,7 @@ In other words, a 8 step pattern would take `(60/BPM)*4` seconds to play and eac
   note that if you have 2 patterns, one 8 and one 16, the 8 should play
   twice while the 16 plays once.
 * Add support for velocity (the amplitude/volume of a note).
-* Try to output sound - you might want to look at some higher-level libraries that allow you to load and play sounds like https://github.com/rserota/wad rather than getting mired in the details of managing and playing the sounds directly (though you're certainly welcome to do that too).
+* Try to output sound - you might want to look at some higher-level libraries that allow you to load and play sounds rather than getting mired in the details of managing and playing the sounds directly (though you're certainly welcome to do that too).
 * You don't have to limit yourself to the features/layout/parts on the diagram. Take inspiration from existing drum machines and feel free to get creative!
 
 ##### If you can't stop:
