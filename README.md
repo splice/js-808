@@ -46,12 +46,7 @@ sequence tempo.
 
 ### Tools and Frameworks
 
-Here at Splice, our front-end app is a mix of Angular and Angular 2, and all new front-end code is written in TypeScript. We'd like you to complete this project using JavaScript or TypeScript and either Angular (1 or 2), React (along with your favorite state-management library), or Ember.
-
-If you *really* want to use a different framework, let's talk about it ahead of time.
-
-Build tools are up to you but the easier it is for us to run, the better.
-
+Feel free to use whatever framework you want or no framework at all.
 
 ### Useful Timing Info
 
