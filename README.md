@@ -78,4 +78,6 @@ interested in discussing:
 
 ### Submitting your solution
 
-As soon as you're ready, send us a link to your repo (either a fork of this repo or a new one that you created). You don't have to send us the link before you're ready, but we recommend committing code early and often, with clear descriptive commit messages. This helps us follow your thought process as you build your solution.
+Please **do not include your name or any other identifying information in your code**. 
+
+Zip up your solution and submit it via the Greenhouse link that should have been provided to you by your recruiter. It is also acceptable to submit it as an email attachment to the recruiter. We do not accept submissions any other way.
