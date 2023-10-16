@@ -5,9 +5,11 @@ The goal of this exercise is to practice designing models and interfaces, and to
 There aren't good or bad solutions; rather, there are solutions that match the requirements and some that don't. There are solutions that might be considered elegant by some by some and solutions that would be considered clever.
 
 ## Time Expectations
-We ask that you set aside about 2-4 hours to complete the exercise. It's ok to go over if you're having fun (drum kits are very fun), but we respect your time. Don't feel like you have to spend the full 4 hours if you are satisfied with your results, and if after 4 hours the exercise is incomplete, share your code and tell us how you would finish it in the form of comments, diagrams, long ramblings with links to things you're thinking about, or anything that will help us understand how you would troubleshoot your way through a task.
+We ask that you set aside about 90 minutes to complete the exercise. It's ok to go over if you're having fun (drum kits are very fun), but we respect your time. Don't worry if after 90 minutes the exercise is incomplete, share your code and tell us how you would finish it in the form of comments, diagrams, long ramblings with links to things you're thinking about, or anything that will help us understand how you would troubleshoot your way through a task.
 
-Our engineering team cares about having a good work/life balance. Some of our team have done this exercise recently as part of the hiring process. We empathize with any stress you might be under when looking for a career change. Do your best, let your self come through in your work, and try not to stress out. 
+Our engineering team cares about having a good work/life balance. Some of our team have done this exercise recently as part of the hiring process. We empathize with any stress you might be under when looking for a career change. Do your best, let your self come through in your work, and try not to stress out.
+
+Please feel free to use AI and coding assistants to complete this assignment, but **make sure you thoroughly understand the code you are submitting**. The most important part of this assignment is going to be talking through what you did and why you did it.
 
 ## The Exercise:  Building a (Soundless) Drum Machine
 
