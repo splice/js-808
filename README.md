@@ -80,6 +80,4 @@ interested in discussing:
 
 ### Submitting your solution
 
-Please **do not include your name or any other identifying information in your code**. 
-
 Zip up your solution, including the git history, and submit it via the Greenhouse link that should have been provided to you by your recruiter. It is also acceptable to submit it as an email attachment to the recruiter. We do not accept submissions any other way.
